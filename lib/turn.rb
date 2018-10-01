@@ -55,8 +55,11 @@ def turn(board)
   if valid_move?(board, index)
 
     move(board, index, char="X")
-      display_board(board)
-else turn(board)
+    display_board(board)
 
-end
+  else
+    puts "Try again"
+    turn(board)
+
+ end
 end
