@@ -54,12 +54,6 @@ def turn(board)
   valid_move?(board, index)
 
 
-if the move is valid_move
-    #do stuff
-  else
-
-  #run turn again
-end
 
 
 
