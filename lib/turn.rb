@@ -52,5 +52,5 @@ def turn(board)
   converted_input
 
 
-  
+
 end
