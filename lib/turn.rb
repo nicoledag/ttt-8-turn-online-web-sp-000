@@ -51,9 +51,15 @@ def turn(board)
 
   user_input = gets.strip
   input_to_index(user_input)
-  valid_move?(board, index)
+  valid_move?(board, 0)
 
 
+if the move is valid_move
+    #do stuff
+  else
+
+  #run turn again
+end
 
 
 
