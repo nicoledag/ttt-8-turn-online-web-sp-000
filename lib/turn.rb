@@ -54,7 +54,12 @@ def turn(board)
   valid_move?(board, 0)
 
 
+if the move is valid_move
+    #do stuff
+  else
 
+  #run turn again
+end
 
 
 
