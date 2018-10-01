@@ -55,6 +55,8 @@ def turn(board)
 
 
 
+display_board
+
 
 
 end
